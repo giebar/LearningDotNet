@@ -1,0 +1,8 @@
+C:\Users\Giedre\source\repos\LearningDotNet\LearningArrays\LearningArrays\bin\Debug\LearningArrays.exe.config
+C:\Users\Giedre\source\repos\LearningDotNet\LearningArrays\LearningArrays\bin\Debug\LearningArrays.exe
+C:\Users\Giedre\source\repos\LearningDotNet\LearningArrays\LearningArrays\bin\Debug\LearningArrays.pdb
+C:\Users\Giedre\source\repos\LearningDotNet\LearningArrays\LearningArrays\obj\Debug\LearningArrays.csproj.AssemblyReference.cache
+C:\Users\Giedre\source\repos\LearningDotNet\LearningArrays\LearningArrays\obj\Debug\LearningArrays.csproj.SuggestedBindingRedirects.cache
+C:\Users\Giedre\source\repos\LearningDotNet\LearningArrays\LearningArrays\obj\Debug\LearningArrays.csproj.CoreCompileInputs.cache
+C:\Users\Giedre\source\repos\LearningDotNet\LearningArrays\LearningArrays\obj\Debug\LearningArrays.exe
+C:\Users\Giedre\source\repos\LearningDotNet\LearningArrays\LearningArrays\obj\Debug\LearningArrays.pdb
